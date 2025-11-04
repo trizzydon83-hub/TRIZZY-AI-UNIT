@@ -1,0 +1,4 @@
+requests==2.31.0
+youtube_dl==2025.10.23
+python-dotenv==1.0.1
+whatsapp-chatbot-python==1.0.0
